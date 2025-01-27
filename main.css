@@ -120,7 +120,7 @@ section h3 {
 
 form button {
     background-color: #182c61;
-    color: #fff;
+    color: #ecf0f1;
     border: none;
     cursor: pointer;
 }
@@ -134,7 +134,7 @@ input:focus, textarea:focus {
 }
 
 footer {
-    outline-color: #182c61;
+    background-color: #182c61;
     color: #ecf0f1;
     padding: 16px 0;
 }
